@@ -26,7 +26,7 @@ composer install
 ```
 {
     "require": {
-        "asposetasks/aspose_barcode_java_for_php": "dev-master"
+        "asposetasks/aspose_tasks_java_for_php": "dev-master"
     }
 }
 ```

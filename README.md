@@ -5,13 +5,13 @@ Project Aspose.Tasks for PHP shows how different tasks can be performed using As
 * Tomcat Server 8.0 or above installed.
 * PHP/JavaBridge is configured.
 * FastCGI is installed.
-* Downloaded Aspose.Barcode component.
+* Downloaded Aspose.Tasks component.
 
 ### Supported Platforms
 * PHP 5.3 or above 
 * Java 1.8 or above 
 
-#### Configure Aspose.Barcode Java for PHP Examples
+#### Configure Aspose.Tasks Java for PHP Examples
 ##### Method 1
 * Clone the Repository
 ```
